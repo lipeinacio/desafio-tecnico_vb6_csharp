@@ -1,0 +1,31 @@
+# Arquivos gerados e configurações locais
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+node_modules/
+.env
+.env.*
+!.env.example
+*.log
+publicado/
+monitoramento/
+
+# Materiais internos, dados e chaves fora do repositório público
+documentos-internos/
+referencias/
+.obsidian/
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pem
+*.key
+*.pfx
+*.p12
