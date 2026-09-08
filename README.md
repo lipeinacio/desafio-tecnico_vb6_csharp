@@ -17,3 +17,13 @@ A API de demonstração fica em `01-vb6/API`. O script PostgreSQL inclui a tabel
 ## Formulário VB6
 
 ![Formulário aberto no Designer do VB6](docs/prints/VB6-vm.png)
+
+## PostgreSQL
+
+Busca por `ANA` no ambiente de testes, usando a função com `ILIKE`:
+
+![Consulta e resultado no DBeaver](docs/prints/dbeaver-test.png)
+
+PostgreSQL em execução no Docker:
+
+![Container PostgreSQL em execução](docs/prints/docker-postgres.png)
