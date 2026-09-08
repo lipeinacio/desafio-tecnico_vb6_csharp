@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="02-csharp/MonitorArquivos/MonitorArquivos.csproj" />
+  <Project Path="02-csharp/Testes/MonitorArquivos.Tests.csproj" />
+</Solution>

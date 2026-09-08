@@ -29,3 +29,13 @@ referencias/
 *.key
 *.pfx
 *.p12
+
+# Prints usados no README
+!docs/prints/*.png
+!docs/prints/*.jpg
+!docs/prints/*.jpeg
+
+# Arquivos locais gerados pelo VB6
+01-vb6/*.exe
+01-vb6/*.vbw
+01-vb6/resultado-testes.txt

@@ -1,0 +1,10 @@
+{
+  "files.exclude": {
+    "desafio-tec-vbnet": true,
+    "monitoramento": true,
+    "publicado": true,
+    "**/bin": true,
+    "**/obj": true,
+    "**/.vs": true
+  }
+}
