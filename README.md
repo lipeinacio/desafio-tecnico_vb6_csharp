@@ -1,6 +1,6 @@
 # Desafio Tec - VB.net
 
-Projeto de estudo construído passo a passo.
+Projeto construído passo a passo.
 
 ## Planejado
 
